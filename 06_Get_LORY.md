@@ -1,2 +1,7 @@
-# 🔄 How to Get $LORY
+---
+icon: question
+---
+
+# How to Get $LORY
+
 TODO
