@@ -1,5 +1,4 @@
-## 📲 Community Links
-- Twitter: @LoryMemeToken
-- Discord: [Join](#)
-- GitHub: lorenzino-official
-...
+# 📲 Community Links
+- Twitter
+- Discord
+- [GitHub](https://github.com/LorenzinoToken)
