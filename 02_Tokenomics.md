@@ -1,7 +1,10 @@
-## 💰 Tokenomics
+# 💰 Tokenomics
 <b>Total Supply</b>: 1,000,000,000 LORY
+
 <b>Decimals</b>: 4
+
 <b>Symbol</b>: LORY
+
 <b>Token Standard</b>: eosio.token (on WAX)
 
 ## Distribution

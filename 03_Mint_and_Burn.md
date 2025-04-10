@@ -1,4 +1,4 @@
-## 🔥 Mint & Burn Mechanics
+# 🔥 Mint & Burn Mechanics
 
 ## 🥐  Mint Strategy: controlled yeast
 ❌ No inflationistic mint
