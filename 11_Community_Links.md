@@ -6,4 +6,5 @@ icon: link
 
 * Twitter
 * Discord
+* [Telegram](https://t.me/lorenzinotoken)
 * [GitHub](https://github.com/LorenzinoToken)
