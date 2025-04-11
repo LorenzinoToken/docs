@@ -1,7 +1,3 @@
----
-icon: shield-quartered
----
-
-# Security & Best Practices
+# 🛡️ Security & Best Practices
 
 TODO

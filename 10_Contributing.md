@@ -1,7 +1,3 @@
----
-icon: handshake-simple
----
-
-# Contributing
+# 🤝 Contributing
 
 TODO

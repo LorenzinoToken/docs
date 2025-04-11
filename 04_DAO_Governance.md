@@ -1,7 +1,3 @@
----
-icon: building-columns
----
-
-# DAO Governance
+# 🏛️ DAO Governance
 
 TODO

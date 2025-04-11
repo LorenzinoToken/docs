@@ -1,7 +1,3 @@
----
-icon: question
----
-
-# How to Get $LORY
+# ❓ How to Get $LORY
 
 TODO

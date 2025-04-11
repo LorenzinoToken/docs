@@ -1,8 +1,4 @@
----
-icon: link
----
-
-# Community Links
+# 🔗 Community Links
 
 * Twitter
 * Discord

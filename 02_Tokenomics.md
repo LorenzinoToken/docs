@@ -1,8 +1,4 @@
----
-icon: coin-front
----
-
-# Tokenomics
+# 🪙 Tokenomics
 
 Total Supply: 1,000,000,000 LORY
 

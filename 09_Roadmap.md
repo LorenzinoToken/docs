@@ -1,8 +1,4 @@
----
-icon: road
----
-
-# Roadmap
+# 🎢 Roadmap
 
 | Phase   | Milestone                              |
 | ------- | -------------------------------------- |

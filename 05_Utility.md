@@ -1,7 +1,3 @@
----
-icon: hammer-brush
----
-
-# Utility
+# 🧰 Utility
 
 TODO

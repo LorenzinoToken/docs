@@ -1,8 +1,4 @@
----
-icon: fire
----
-
-# Mint & Burn Mechanics
+# 🔥 Mint & Burn Mechanics
 
 ## 🥐 Mint Strategy: controlled yeast
 

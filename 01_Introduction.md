@@ -1,8 +1,4 @@
----
-icon: bread-slice-butter
----
-
-# $LORY
+# 🌾 $LORY
 
 > “Zero gluten, zero inflation, maximum financial digestibility.”
 
